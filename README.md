@@ -2,7 +2,9 @@
 
 I'm currently studying **Application Development** and working with:
 
-- 💻 Java  
+- 💻 Java
+-  🧪 Postman  
+- 🔌 JDBC  
 - 🐬 MySQL  
 - 🐍 Python  
 - 🖥️ Visual Studio Code  
