@@ -25,6 +25,15 @@ I'm currently studying **Application Development** and working with:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📜 Certifications
+
+- **Professional Scrum Master (PSM I)** – Completed on Pluralsight  
+  _Certification Prep Path – 100% Complete_
+
+<img src="https://github.com/user-attachments/assets/be5f7687-9cd5-45f7-920a-f30ee83d49f1" alt="Professional Scrum Master Certificate" width="500"/>
+
+
+
 ---
 
 > ✨ *"Coding is a journey. Each challenge helps me grow and get better."*
