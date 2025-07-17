@@ -30,7 +30,8 @@ I'm currently studying **Application Development** and working with:
 - **Professional Scrum Master (PSM I)** – Completed on Pluralsight  
   _Certification Prep Path – 100% Complete_
 
-<img src="https://github.com/user-attachments/assets/be5f7687-9cd5-45f7-920a-f30ee83d49f1" alt="Professional Scrum Master Certificate" width="500"/>
+![Professional Scrum Master Certificate](https://github.com/SanaeL98/Capstone1/blob/main/psm-certificate.png?raw=true)
+
 
 
 
